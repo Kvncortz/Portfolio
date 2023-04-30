@@ -1,7 +1,8 @@
 # Portfolio
 
 Hi there, I'm Kevin Cortez 👋
-Welcome to my GitHub portfolio! I'm a Project Manager based in the New York Metro Area. I believe that software development is not just about writing code; 
+Welcome to my GitHub portfolio! 
+I'm a Project Manager based in the New York Metro Area. I believe that software development is not just about writing code; 
 it's about solving real-world problems and making people's lives easier. 
 That's why I had made it a goal to build software solutions that have a meaningful impact on people's lives. 
 Here you'll find a few projects that showcase my skills and experience.
